@@ -1,0 +1,1380 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+The Project Gutenberg EBook of 35 Sonnets by Fernando Pessoa
+
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+
+Title: 35 Sonnets
+
+Author: Fernando Pessoa
+
+Release Date: November 30, 2006 [Ebook #19978]
+
+Language: English
+
+Character set encoding: UTF-8
+-->
+
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>35 Sonnets</title>
+ <author>Fernando Pessoa</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2006-11-30">November 30, 2006</date>
+ <idno type="etext-no">19978</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>35 Sonnets</title>
+  <author>Fernando Pessoa</author>
+  <imprint>
+   <pubPlace>Lisbon</pubPlace>
+   <publisher>Monteiro &amp; Co.</publisher>
+   <date>1918</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en">English</language>
+ </langUsage>
+ <textClass>
+  <classCode scheme="lc">
+  *** <!-- LoC Class (PR, PQ, ...) -->
+  </classCode>
+  <keywords>
+  <list>
+   <!-- <item></item> any keywords for PG search engine -->
+  </list>
+  </keywords>
+ </textClass>
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2006-11-30">November 30, 2006</date>
+  <respStmt>
+  <name>Rita Farinha<lb /></name>
+  <name>Joshua Hutchinson<lb /></name>
+  <name>Online Distributed Proofreading Team</name>
+  <name>This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).</name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    figure           { text-align: center; page-float: 'htbp' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text>
+<front>
+<div>
+<divGen type="pgheader" />
+</div>
+
+<div rend="page-break-before: right">
+<divGen type="titlepage" />
+</div>
+
+</front>
+
+<body>
+<div rend="page-break-before: right">
+<head>I.</head>
+
+<lg>
+<l>Whether we write or speak or do but look</l>
+<l>We are ever unapparent. What we are</l>
+<l>Cannot be transfused into word or book.</l>
+<l>Our soul from us is infinitely far.</l>
+<l>However much we give our thoughts the will</l>
+<l>To be our soul and gesture it abroad,</l>
+<l>Our hearts are incommunicable still.</l>
+<l>In what we show ourselves we are ignored.</l>
+<l>The abyss from soul to soul cannot be bridged</l>
+<l>By any skill of thought or trick of seeming.</l>
+<l>Unto our very selves we are abridged</l>
+<l>When we would utter to our thought our being.</l>
+<l rend="margin-left: 2">We are our dreams of ourselves, souls by gleams,</l>
+<l rend="margin-left: 2">And each to each other dreams of others' dreams.</l>
+</lg>
+</div>
+
+<div>
+<head>II.</head>
+
+<lg>
+<l>If that apparent part of life's delight</l>
+<l>Our tingled flesh-sense circumscribes were seen</l>
+<l>By aught save reflex and co-carnal sight,</l>
+<l>Joy, flesh and life might prove but a gross screen.</l>
+<l>Haply Truth's body is no eyable being,</l>
+<l>Appearance even as appearance lies,</l>
+<l>Haply our close, dark, vague, warm sense of seeing</l>
+<l>Is the choked vision of blindfolded eyes.</l>
+<l>Wherefrom what comes to thought's sense of life? Nought.</l>
+<l>All is either the irrational world we see</l>
+<l>Or some aught-else whose being-unknown doth rot</l>
+<l>Its use for our thought's use. Whence taketh me</l>
+<l rend="margin-left: 2">A qualm-like ache of life, a body-deep</l>
+<l rend="margin-left: 2">Soul-hate of what we seek and what we weep.</l>
+</lg>
+</div>
+
+<pb n="002" /><anchor id="Pg002" />
+
+<div>
+<head>III.</head>
+
+<lg>
+<l>When I do think my meanest line shall be</l>
+<l>More in Time's use than my creating whole,</l>
+<l>That future eyes more clearly shall feel me</l>
+<l>In this inked page than in my direct soul;</l>
+<l>When I conjecture put to make me seeing</l>
+<l>Good readers of me in some aftertime,</l>
+<l>Thankful to some idea of my being</l>
+<l>That doth not even my with gone true soul rime;</l>
+<l>An anger at the essence of the world,</l>
+<l>That makes this thus, or thinkable this wise,</l>
+<l>Takes my soul by the throat and makes it hurled</l>
+<l>In nightly horrors of despaired surmise,</l>
+<l rend="margin-left: 2">And I become the mere sense of a rage</l>
+<l rend="margin-left: 2">That lacks the very words whose waste might 'suage.</l>
+</lg>
+</div>
+
+<div>
+<head>IV.</head>
+
+<lg>
+<l>I could not think of thee as piecèd rot,</l>
+<l>Yet such thou wert, for thou hadst been long dead;</l>
+<l>Yet thou liv'dst entire in my seeing thought</l>
+<l>And what thou wert in me had never fled.</l>
+<l>Nay, I had fixed the moments of thy beauty--</l>
+<l>Thy ebbing smile, thy kiss's readiness,</l>
+<l>And memory had taught my heart the duty</l>
+<l>To know thee ever at that deathlessness.</l>
+<l>But when I came where thou wert laid, and saw</l>
+<l>The natural flowers ignoring thee sans blame,</l>
+<l>And the encroaching grass, with casual flaw,</l>
+<l>Framing the stone to age where was thy name,</l>
+<l rend="margin-left: 2">I knew not how to feel, nor what to be</l>
+<l rend="margin-left: 2">Towards thy fate's material secrecy.</l>
+</lg>
+</div>
+
+<pb n="003" /><anchor id="Pg003" />
+
+<div>
+<head>V.</head>
+
+<lg>
+<l>How can I think, or edge my thoughts to action,</l>
+<l>When the miserly press of each day's need</l>
+<l>Aches to a narrowness of spilled distraction</l>
+<l>My soul appalled at the world's work's time-greed?</l>
+<l>How can I pause my thoughts upon the task</l>
+<l>My soul was born to think that it must do</l>
+<l>When every moment has a thought to ask</l>
+<l>To fit the immediate craving of its cue?</l>
+<l>The coin I'd heap for marrying my Muse</l>
+<l>And build our home i'th' greater Time-to-be</l>
+<l>Becomes dissolved by needs of each day's use</l>
+<l>And I feel beggared of infinity,</l>
+<l rend="margin-left: 2">Like a true-Christian sinner, each day flesh-driven</l>
+<l rend="margin-left: 2">By his own act to forfeit his wished heaven.</l>
+</lg>
+</div>
+
+<div>
+<head>VI.</head>
+
+<lg>
+<l>As a bad orator, badly o'er-book-skilled,</l>
+<l>Doth overflow his purpose with made heat,</l>
+<l>And, like a clock, winds with withoutness willed</l>
+<l>What should have been an inner instinct's feat;</l>
+<l>Or as a prose-wit, harshly poet turned,</l>
+<l>Lacking the subtler music in his measure,</l>
+<l>With useless care labours but to be spurned,</l>
+<l>Courting in alien speech the Muse's pleasure;</l>
+<l>I study how to love or how to hate,</l>
+<l>Estranged by consciousness from sentiment,</l>
+<l>With a thought feeling forced to be sedate</l>
+<l>Even when the feeling's nature is violent;</l>
+<l rend="margin-left: 2">As who would learn to swim without the river,</l>
+<l rend="margin-left: 2">When nearest to the trick, as far as ever.</l>
+</lg>
+</div>
+
+<pb n="004" /><anchor id="Pg004" />
+
+<div>
+<head>VII.</head>
+
+<lg>
+<l>Thy words are torture to me, that scarce grieve thee--</l>
+<l>That entire death shall null my entire thought;</l>
+<l>And I feel torture, not that I believe thee,</l>
+<l>But that I cannot disbelieve thee not.</l>
+<l>Shall that of me that now contains the stars</l>
+<l>Be by the very contained stars survived?</l>
+<l>Thus were Fate all unjust. Yet what truth bars</l>
+<l>An all unjust Fate's truth from being believed?</l>
+<l>Conjecture cannot fit to the seen world</l>
+<l>A garment of its thought untorn or covering,</l>
+<l>Or with its stuffed garb forge an otherworld</l>
+<l>Without itself its dead deceit discovering;</l>
+<l rend="margin-left: 2">So, all being possible, an idle thought may</l>
+<l rend="margin-left: 2">Less idle thoughts, self-known no truer, dismay.</l>
+</lg>
+</div>
+
+<div>
+<head>VIII.</head>
+
+<lg>
+<l>How many masks wear we, and undermasks,</l>
+<l>Upon our countenance of soul, and when,</l>
+<l>If for self-sport the soul itself unmasks,</l>
+<l>Knows it the last mask off and the face plain?</l>
+<l>The true mask feels no inside to the mask</l>
+<l>But looks out of the mask by co-masked eyes.</l>
+<l>Whatever consciousness begins the task</l>
+<l>The task's accepted use to sleepness ties.</l>
+<l>Like a child frighted by its mirrored faces,</l>
+<l>Our souls, that children are, being thought-losing,</l>
+<l>Foist otherness upon their seen grimaces</l>
+<l>And get a whole world on their forgot causing;</l>
+<l rend="margin-left: 2">And, when a thought would unmask our soul's masking,</l>
+<l rend="margin-left: 2">Itself goes not unmasked to the unmasking.</l>
+</lg>
+</div>
+
+<pb n="005" /><anchor id="Pg005" />
+
+<div>
+<head>IX.</head>
+
+<lg>
+<l>Oh to be idle loving idleness!</l>
+<l>But I am idle all in hate of me;</l>
+<l>Ever in action's dream, in the false stress</l>
+<l>Of purposed action never set to be.</l>
+<l>Like a fierce beast self-penned in a bait-lair,</l>
+<l>My will to act binds with excess my action,</l>
+<l>Not-acting coils the thought with raged despair,</l>
+<l>And acting rage doth paint despair distraction.</l>
+<l>Like someone sinking in a treacherous sand,</l>
+<l>Each gesture to deliver sinks the more;</l>
+<l>The struggle avails not, and to raise no hand,</l>
+<l>Though but more slowly useless, we've no power.</l>
+<l rend="margin-left: 2">Hence live I the dead life each day doth bring,</l>
+<l rend="margin-left: 2">Repurposed for next day's repurposing.</l>
+</lg>
+</div>
+
+<div>
+<head>X.</head>
+
+<lg>
+<l>As to a child, I talked my heart asleep</l>
+<l>With empty promise of the coming day,</l>
+<l>And it slept rather for my words made sleep</l>
+<l>Than from a thought of what their sense did say.</l>
+<l>For did it care for sense, would it not wake</l>
+<l>And question closer to the morrow's pleasure?</l>
+<l>Would it not edge nearer my words, to take</l>
+<l>The promise in the meting of its measure?</l>
+<l>So, if it slept, 'twas that it cared but for</l>
+<l>The present sleepy use of promised joy,</l>
+<l>Thanking the fruit but for the forecome flower</l>
+<l>Which the less active senses best enjoy.</l>
+<l rend="margin-left: 2">Thus with deceit do I detain the heart</l>
+<l rend="margin-left: 2">Of which deceit's self knows itself a part.</l>
+</lg>
+</div>
+
+<pb n="006" /><anchor id="Pg006" />
+
+<div>
+<head>XI.</head>
+
+<lg>
+<l>Like to a ship that storms urge on its course,</l>
+<l>By its own trials our soul is surer made.</l>
+<l>The very things that make the voyage worse</l>
+<l>Do make it better; its peril is its aid.</l>
+<l>And, as the storm drives from the storm, our heart</l>
+<l>Within the peril disimperilled grows;</l>
+<l>A port is near the more from port we part--</l>
+<l>The port whereto our driven direction goes.</l>
+<l>If we reap knowledge to cross-profit, this</l>
+<l>From storms we learn, when the storm's height doth drive--</l>
+<l>That the black presence of its violence is</l>
+<l>The pushing promise of near far blue skies.</l>
+<l rend="margin-left: 2">Learn we but how to have the pilot-skill,</l>
+<l rend="margin-left: 2">And the storm's very might shall mate our will.</l>
+</lg>
+</div>
+
+<div>
+<head>XII.</head>
+
+<lg>
+<l>As the lone, frighted user of a night-road</l>
+<l>Suddenly turns round, nothing to detect,</l>
+<l>Yet on his fear's sense keepeth still the load</l>
+<l>Of that brink-nothing he doth but suspect;</l>
+<l>And the cold terror moves to him more near</l>
+<l>Of something that from nothing casts a spell,</l>
+<l>That, when he moves, to fright more is not there,</l>
+<l>And's only visible when invisible</l>
+<l>So I upon the world turn round in thought,</l>
+<l>And nothing viewing do no courage take,</l>
+<l>But my more terror, from no seen cause got,</l>
+<l>To that felt corporate emptiness forsake,</l>
+<l rend="margin-left: 2">And draw my sense of mystery's horror from</l>
+<l rend="margin-left: 2">Seeing no mystery's mystery alone.</l>
+</lg>
+</div>
+
+<pb n="007" /><anchor id="Pg007" />
+
+<div>
+<head>XIII.</head>
+
+<lg>
+<l>When I should be asleep to mine own voice</l>
+<l>In telling thee how much thy love's my dream,</l>
+<l>I find me listening to myself, the noise</l>
+<l>Of my words othered in my hearing them.</l>
+<l>Yet wonder not: this is the poet's soul.</l>
+<l>I could not tell thee well of how I love,</l>
+<l>Loved I not less by knowing it, were all</l>
+<l>My self my love and no thought love to prove.</l>
+<l>What consciousness makes more by consciousness,</l>
+<l>It makes less, for it makes it less itself,</l>
+<l>My sense of love could not my love rich-dress</l>
+<l>Did it not for it spend love's own love-pelf.</l>
+<l rend="margin-left: 2">Poet's love's this (as in these words I prove thee):</l>
+<l rend="margin-left: 2">I love my love for thee more than I love thee.</l>
+</lg>
+</div>
+
+<div>
+<head>XIV.</head>
+
+<lg>
+<l>We are born at sunset and we die ere morn,</l>
+<l>And the whole darkness of the world we know,</l>
+<l>How can we guess its truth, to darkness born,</l>
+<l>The obscure consequence of absent glow?</l>
+<l>Only the stars do teach us light. We grasp</l>
+<l>Their scattered smallnesses with thoughts that stray,</l>
+<l>And, though their eyes look through night's complete mask,</l>
+<l>Yet they speak not the features of the day.</l>
+<l>Why should these small denials of the whole</l>
+<l>More than the black whole the pleased eyes attract?</l>
+<l>Why what it calls «worth» does the captive soul</l>
+<l>Add to the small and from the large detract?</l>
+<l rend="margin-left: 2">So, put of light's love wishing it night's stretch,</l>
+<l rend="margin-left: 2">A nightly thought of day we darkly reach.</l>
+</lg>
+</div>
+
+<pb n="008" /><anchor id="Pg008" />
+
+<div>
+<head>XV.</head>
+
+<lg>
+<l>Like a bad suitor desperate and trembling</l>
+<l>From the mixed sense of being not loved and loving,</l>
+<l>Who with feared longing half would know, dissembling</l>
+<l>With what he'd wish proved what he fears soon proving,</l>
+<l>I look with inner eyes afraid to look,</l>
+<l>Yet perplexed into looking, at the worth</l>
+<l>This verse may have and wonder, of my book,</l>
+<l>To what thoughts shall't in alien hearts give birth.</l>
+<l>But, as he who doth love, and, loving, hopes,</l>
+<l>Yet, hoping, fears, fears to put proof to proof,</l>
+<l>And in his mind for possible proofs gropes,</l>
+<l>Delaying the true proof, lest the real thing scoff,</l>
+<l rend="margin-left: 2">I daily live, i'th' fame I dream to see,</l>
+<l rend="margin-left: 2">But by my thought of others' thought of me.</l>
+</lg>
+</div>
+
+<div>
+<head>XVI.</head>
+
+<lg>
+<l>We never joy enjoy to that full point</l>
+<l>Regret doth wish joy had enjoyèd been,</l>
+<l>Nor have the strength regret to disappoint</l>
+<l>Recalling not past joy's thought, but its mien.</l>
+<l>Yet joy was joy when it enjoyèd was</l>
+<l>And after-enjoyed when as joy recalled,</l>
+<l>It must have been joy ere its joy did pass</l>
+<l>And, recalled, joy still, since its being-past galled.</l>
+<l>Alas! All this is useless, for joy's in</l>
+<l>Enjoying, not in thinking of enjoying.</l>
+<l>Its mere thought-mirroring gainst itself doth sin,</l>
+<l>By mere reflecting solid life destroying,</l>
+<l rend="margin-left: 2">Yet the more thought we take to thought to prove</l>
+<l rend="margin-left: 2">It must not think, doth further from joy move.</l>
+</lg>
+</div>
+
+<pb n="009" /><anchor id="Pg009" />
+
+<div>
+<head>XVII.</head>
+
+<lg>
+<l>My love, and not I, is the egoist.</l>
+<l>My love for thee loves itself more than thee;</l>
+<l>Ay, more than me, in whom it doth exist,</l>
+<l>And makes me live that it may feed on me.</l>
+<l>In the country of bridges the bridge is</l>
+<l>More real than the shores it doth unsever;</l>
+<l>So in our world, all of Relation, this</l>
+<l>Is true--that truer is Love than either lover.</l>
+<l>This thought therefore comes lightly to Doubt's door--</l>
+<l>If we, seeing substance of this world, are not</l>
+<l>Mere Intervals, God's Absence and no more,</l>
+<l>Hollows in real Consciousness and Thought.</l>
+<l rend="margin-left: 2">And if 'tis possible to Thought to bear this fruit,</l>
+<l rend="margin-left: 2">Why should it not be possible to Truth?</l>
+</lg>
+</div>
+
+<div>
+<head>XVIII.</head>
+
+<lg>
+<l>Indefinite space, which, by co-substance night,</l>
+<l>In one black mystery two void mysteries blends;</l>
+<l>The stray stars, whose innumerable light</l>
+<l>Repeats one mystery till conjecture ends;</l>
+<l>The stream of time, known by birth-bursting bubbles;</l>
+<l>The gulf of silence, empty even of nought;</l>
+<l>Thought's high-walled maze, which the outed owner troubles</l>
+<l>Because the string's lost and the plan forgot:</l>
+<l>When I think on this and that here I stand,</l>
+<l>The thinker of these thoughts, emptily wise,</l>
+<l>Holding up to my thinking my thing-hand</l>
+<l>And looking at it with thought-alien eyes,</l>
+<l rend="margin-left: 2">The prayer of my wonder looketh past</l>
+<l rend="margin-left: 2">The universal darkness lone and vast.</l>
+</lg>
+</div>
+
+<pb n="010" /><anchor id="Pg010" />
+
+<div>
+<head>XIX.</head>
+
+<lg>
+<l>Beauty and love let no one separate,</l>
+<l>Whom exact Nature did to each other fit,</l>
+<l>Giving to Beauty love as finishing fate</l>
+<l>And to Love beauty as true colour of it.</l>
+<l>Let he but friend be who the soul finds fair,</l>
+<l>But let none love outside the body's thought,</l>
+<l>So the seen couple's togetherness shall bear</l>
+<l>Truth to the beauty each in the other sought.</l>
+<l>I could but love thee out of mockery</l>
+<l>Of love and thee and mine own ugliness;</l>
+<l>Therefore thy beauty I sing and wish not thee,</l>
+<l>Thanking the Gods I long not out of place,</l>
+<l rend="margin-left: 2">Lest, like a slave that for kings' robes doth long,</l>
+<l rend="margin-left: 2">Obtained, shall with mere wearing do them wrong.</l>
+</lg>
+</div>
+
+<div>
+<head>XX.</head>
+
+<lg>
+<l>When in the widening circle of rebirth</l>
+<l>To a new flesh my travelled soul shall come,</l>
+<l>And try again the unremembered earth</l>
+<l>With the old sadness for the immortal home,</l>
+<l>Shall I revisit these same differing fields</l>
+<l>And cull the old new flowers with the same sense,</l>
+<l>That some small breath of foiled remembrance yields,</l>
+<l>Of more age than my days in this pretence?</l>
+<l>Shall I again regret strange faces lost</l>
+<l>Of which the present memory is forgot</l>
+<l>And but in unseen bulks of vagueness tossed</l>
+<l>Out of the closed sea and black night of Thought?</l>
+<l rend="margin-left: 2">Were thy face one, what sweetness will't not be,</l>
+<l rend="margin-left: 2">Though by blind feeling, to remember thee!</l>
+</lg>
+</div>
+
+<pb n="011" /><anchor id="Pg011" />
+
+<div>
+<head>XXI.</head>
+
+<lg>
+<l>Thought was born blind, but Thought knows what is seeing.</l>
+<l>Its careful touch, deciphering forms from shapes,</l>
+<l>Still suggests form as aught whose proper being</l>
+<l>Mere finding touch with erring darkness drapes.</l>
+<l>Yet whence, except from guessed sight, does touch teach</l>
+<l>That touch is but a close and empty sense?</l>
+<l>How does mere touch, self-uncontented, reach</l>
+<l>For some truer sense's whole intelligence?</l>
+<l>The thing once touched, if touch be now omitted,</l>
+<l>Stands yet in memory real and outward known,</l>
+<l>So the untouching memory of touch is fitted</l>
+<l>With sense of a sense whereby far things are shown</l>
+<l rend="margin-left: 2">So, by touch of untouching, wrongly aright,</l>
+<l rend="margin-left: 2">Touch' thought of seeing sees not things but Sight.</l>
+</lg>
+</div>
+
+<div>
+<head>XXII.</head>
+
+<lg>
+<l>My soul is a stiff pageant, man by man,</l>
+<l>Of some Egyptian art than Egypt older,</l>
+<l>Found in some tomb whose rite no guess can scan,</l>
+<l>Where all things else to coloured dust did moulder.</l>
+<l>Whate'er its sense may mean, its age is twin</l>
+<l>To that of priesthoods whose feet stood near God,</l>
+<l>When knowledge was so great that 'twas a sin</l>
+<l>And man's mere soul too man for its abode.</l>
+<l>But when I ask what means that pageant I</l>
+<l>And would look at it suddenly, I lose</l>
+<l>The sense I had of seeing it, nor can try</l>
+<l>Again to look, nor hath my memory a use</l>
+<l rend="margin-left: 2">That seems recalling, save that it recalls</l>
+<l rend="margin-left: 2">An emptiness of having seen those walls.</l>
+</lg>
+</div>
+
+<pb n="012" /><anchor id="Pg012" />
+
+<div>
+<head>XXIII.</head>
+
+<lg>
+<l>Even as upon a low and cloud-domed day,</l>
+<l>When clouds are one cloud till the horizon,</l>
+<l>Our thinking senses deem the sun away</l>
+<l>And say «'tis sunless» and «there is no sun»;</l>
+<l>And yet the very day they wrong truth by</l>
+<l>Is of the unseen sun's effluent essence,</l>
+<l>The very words do give themselves the lie,</l>
+<l>The very thought of absence comes from presence:</l>
+<l>Even so deem we through Good of what is evil.</l>
+<l>He speaks of light that speaks of absent light,</l>
+<l>And absent god, becoming present devil,</l>
+<l>Is still the absent god by essence' right.</l>
+<l rend="margin-left: 2">The withdrawn cause by being withdrawn doth get</l>
+<l rend="margin-left: 2">(Being thereby cause still) the denied effect.</l>
+</lg>
+</div>
+
+<div>
+<head>XXIV.</head>
+
+<lg>
+<l>Something in me was born before the stars</l>
+<l>And saw the sun begin from far away.</l>
+<l>Our yellow, local day on its wont jars,</l>
+<l>For it hath communed with an absolute day.</l>
+<l>Through my Thought's night, as a worn robe's heard trail</l>
+<l>That I have never seen, I drag this past</l>
+<l>That saw the Possible like a dawn grow pale</l>
+<l>On the lost night before it, mute and vast.</l>
+<l>It dates remoter than God's birth can reach,</l>
+<l>That had no birth but the world's coming after.</l>
+<l>So the world's to me as, after whispered speech,</l>
+<l>The cause-ignored sudden echoing of laughter.</l>
+<l rend="margin-left: 2">That 't has a meaning my conjecture knows,</l>
+<l rend="margin-left: 2">But that 't has meaning's all its meaning shows.</l>
+</lg>
+</div>
+
+<pb n="013" /><anchor id="Pg013" />
+
+<div>
+<head>XXV.</head>
+
+<lg>
+<l>We are in Fate and Fate's and do but lack</l>
+<l>Outness from soul to know ourselves its dwelling,</l>
+<l>And do but compel Fate aside or back</l>
+<l>By Fate's own immanence in the compelling.</l>
+<l>We are too far in us from outward truth</l>
+<l>To know how much we are not what we are,</l>
+<l>And live but in the heat of error's youth,</l>
+<l>Yet young enough its acting youth to ignore.</l>
+<l>The doubleness of mind fails us, to glance</l>
+<l>At our exterior presence amid things,</l>
+<l>Sizing from otherness our countenance</l>
+<l>And seeing our puppet will's act-acting strings.</l>
+<l rend="margin-left: 2">An unknown language speaks in us, which we</l>
+<l rend="margin-left: 2">Are at the words of, fronted from reality.</l>
+</lg>
+
+</div>
+
+<div>
+<head>XXVI.</head>
+
+<lg>
+<l>The world is woven all of dream and error</l>
+<l>And but one sureness in our truth may lie--</l>
+<l>That when we hold to aught our thinking's mirror</l>
+<l>We know it not by knowing it thereby.</l>
+<l>For but one side of things the mirror knows,</l>
+<l>And knows it colded from its solidness.</l>
+<l>A double lie its truth is; what it shows</l>
+<l>By true show's false and nowhere by true place.</l>
+<l>Thought clouds our life's day-sense with strangeness, yet</l>
+<l>Never from strangeness more than that it's strange</l>
+<l>Doth buy our perplexed thinking, for we get</l>
+<l>But the words' sense from words--knowledge, truth, change.</l>
+<l rend="margin-left: 2">We know the world is false, not what is true.</l>
+<l rend="margin-left: 2">Yet we think on, knowing we ne'er shall know.</l>
+</lg>
+</div>
+
+<pb n="014" /><anchor id="Pg014" />
+
+<div>
+<head>XXVII.</head>
+
+<lg>
+<l>How yesterday is long ago! The past</l>
+<l>Is a fixed infinite distance from to-day,</l>
+<l>And bygone things, the first-lived as the last,</l>
+<l>In irreparable sameness far away.</l>
+<l>How the to-be is infinitely ever</l>
+<l>Out of the place wherein it will be Now,</l>
+<l>Like the seen wave yet far up in the river,</l>
+<l>Which reaches not us, but the new-waved flow!</l>
+<l>This thing Time is, whose being is having none,</l>
+<l>The equable tyrant of our different fates,</l>
+<l>Who could not be bought off by a shattered sun</l>
+<l>Or tricked by new use of our careful dates.</l>
+<l rend="margin-left: 2">This thing Time is, that to the grave-will bear</l>
+<l rend="margin-left: 2">My heart, sure but of it and of my fear.</l>
+</lg>
+</div>
+
+<div>
+<head>XXVIII.</head>
+
+<lg>
+<l>The edge of the green wave whitely doth hiss</l>
+<l>Upon the wetted sand. I look, yet dream.</l>
+<l>Surely reality cannot be this!</l>
+<l>Somehow, somewhere this surely doth but seem!</l>
+<l>The sky, the sea, this great extent disclosed</l>
+<l>Of outward joy, this bulk of life we feel,</l>
+<l>Is not something, but something interposed.</l>
+<l>Only what in this is not this is real.</l>
+<l>If this be to have sense, if to be awake</l>
+<l>Be but to see this bright, great sleep of things,</l>
+<l>For the rarer potion mine own dreams I'll take</l>
+<l>And for truth commune with imaginings,</l>
+<l rend="margin-left: 2">Holding a dream too bitter, a too fair curse,</l>
+<l rend="margin-left: 2">This common sleep of men, the universe.</l>
+</lg>
+</div>
+
+<pb n="015" /><anchor id="Pg015" />
+
+<div>
+<head>XXIX.</head>
+
+<lg>
+<l>My weary life, that lives unsatisfied</l>
+<l>On the foiled off-brink of being e'er but this,</l>
+<l>To whom the power to will hath been denied</l>
+<l>And the will to renounce doth also miss;</l>
+<l>My sated life, with having nothing sated,</l>
+<l>In the motion of moving poisèd aye,</l>
+<l>Within its dreams from its own dreams abated--</l>
+<l>This life let the Gods change or take away.</l>
+<l>For this endless succession of empty hours,</l>
+<l>Like deserts after deserts, voidly one,</l>
+<l>Doth undermine the very dreaming powers</l>
+<l>And dull even thought's active inaction,</l>
+<l rend="margin-left: 2">Tainting with fore-unwilled will the dreamed act</l>
+<l rend="margin-left: 2">Twice thus removed from the unobtained fact.</l>
+</lg>
+</div>
+
+<div>
+<head>XXX.</head>
+
+<lg>
+<l>I do not know what truth the false untruth</l>
+<l>Of this sad sense of the seen world may own,</l>
+<l>Or if this flowered plant bears also a fruit</l>
+<l>Unto the true reality unknown.</l>
+<l>But as the rainbow, neither earth's nor sky's,</l>
+<l>Stands in the dripping freshness of lulled rain,</l>
+<l>A hope, not real yet not fancy's, lies</l>
+<l>Athwart the moment of our ceasing pain.</l>
+<l>Somehow, since pain is felt yet felt as ill,</l>
+<l>Hope hath a better warrant than being hoped;</l>
+<l>Since pain is felt as aught we should not feel</l>
+<l>Man hath a Nature's reason for having groped,</l>
+<l rend="margin-left: 2">Since Time was Time and age and grief his measures,</l>
+<l rend="margin-left: 2">Towards a better shelter than Time's pleasures.</l>
+</lg>
+</div>
+
+<pb n="016" /><anchor id="Pg016" />
+
+<div>
+<head>XXXI.</head>
+
+<lg>
+<l>I am older than Nature and her Time</l>
+<l>By all the timeless age of Consciousness,</l>
+<l>And my adult oblivion of the clime</l>
+<l>Where I was born makes me not countryless.</l>
+<l>Ay, and dim through my daylight thoughts escape</l>
+<l>Yearnings for that land where my childhood dreamed,</l>
+<l>Which I cannot recall in colour or shape</l>
+<l>But haunts my hours like something that hath gleamed</l>
+<l>And yet is not as light remembered,</l>
+<l>Nor to the left or to the right conceived;</l>
+<l>And all round me tastes as if life were dead</l>
+<l>And the world made but to be disbelieved.</l>
+<l rend="margin-left: 2">Thus I my hope on unknown truth lay; yet</l>
+<l rend="margin-left: 2">How but by hope do I the unknown truth get?</l>
+</lg>
+</div>
+
+<div>
+<head>XXXII.</head>
+
+<lg>
+<l>When I have sense of what to sense appears,</l>
+<l>Sense is sense ere 'tis mine or mine in me is.</l>
+<l>When I hear, Hearing, ere I do hear, hears.</l>
+<l>When I see, before me abstract Seeing sees.</l>
+<l>I am part Soul part I in all I touch--</l>
+<l>Soul by that part I hold in common with all,</l>
+<l>And I the spoiled part, that doth make sense such</l>
+<l>As I can err by it and my sense mine call.</l>
+<l>The rest is wondering what these thoughts may mean,</l>
+<l>That come to explain and suddenly are gone,</l>
+<l>Like messengers that mock the message' mien,</l>
+<l>Explaining all but the explanation;</l>
+<l rend="margin-left: 2">As if we a ciphered letter's cipher hit</l>
+<l rend="margin-left: 2">And find it in an unknown language writ.</l>
+</lg>
+</div>
+
+<pb n="017" /><anchor id="Pg017" />
+
+<div>
+<head>XXXIII.</head>
+
+<lg>
+<l>He that goes back does, since he goes, advance,</l>
+<l>Though he doth not advance who goeth back,</l>
+<l>And he that seeks, though he on nothing chance,</l>
+<l>May still by words be said to find a lack.</l>
+<l>This paradox of having, that is nought</l>
+<l>In the world's meaning of the things it screens,</l>
+<l>Is yet true of the substance of pure thought</l>
+<l>And there means something by the nought it means.</l>
+<l>For thinking nought does on nought being confer,</l>
+<l>As giving not is acting not to give,</l>
+<l>And, to the same unbribed true thought, to err</l>
+<l>Is to find truth, though by its negative.</l>
+<l rend="margin-left: 2">So why call this world false, if false to be</l>
+<l rend="margin-left: 2">Be to be aught, and being aught Being to be?</l>
+</lg>
+</div>
+
+<div>
+<head>XXXIV.</head>
+
+<lg>
+<l>Happy the maimed, the halt, the mad, the blind--</l>
+<l>All who, stamped separate by curtailing birth,</l>
+<l>Owe no duty's allegiance to mankind</l>
+<l>Nor stand a valuing in their scheme of worth!</l>
+<l>But I, whom Fate, not Nature, did curtail,</l>
+<l>By no exterior voidness being exempt,</l>
+<l>Must bear accusing glances where I fail,</l>
+<l>Fixed in the general orbit of contempt.</l>
+<l>Fate, less than Nature in being kind to lacking,</l>
+<l>Giving the ill, shows not as outer cause,</l>
+<l>Making our mock-free will the mirror's backing</l>
+<l>Which Fate's own acts as if in itself shows;</l>
+<l rend="margin-left: 2">And men, like children, seeing the image there,</l>
+<l rend="margin-left: 2">Take place for cause and make our will Fate bear.</l>
+</lg>
+</div>
+
+<pb n="018" /><anchor id="Pg018" />
+
+<div>
+<head>XXXV.</head>
+
+<lg>
+<l>Good. I have done. My heart weighs. I am sad.</l>
+<l>The outer day, void statue of lit blue,</l>
+<l>Is altogether outward, other, glad</l>
+<l>At mere being not-I (so my aches construe).</l>
+<l>I, that have failed in everything, bewail</l>
+<l>Nothing this hour but that I have bewailed,</l>
+<l>For in the general fate what is't to fail?</l>
+<l>Why, fate being past for Fate, 'tis but to have failed.</l>
+<l>Whatever hap-or stop, what matters it,</l>
+<l>Sith to the mattering our will bringeth nought?</l>
+<l>With the higher trifling let us world our wit,</l>
+<l>Conscious that, if we do't, that was the lot</l>
+<l rend="margin-left: 2">The regular stars bound us to, when they stood</l>
+<l rend="margin-left: 2">Godfathers to our birth and to our blood.</l>
+</lg>
+</div>
+
+</body>
+
+<back rend="page-break-before: right">
+<div>
+<divGen type="pgfooter" />
+</div>
+
+</back>
+
+    </text>
+</TEI.2>
+
+<!--
+A WORD FROM PROJECT GUTENBERG
+
+
+This file should be named 19978-tei.txt or 19978-tei.zip.
+
+This and all associated files of various formats will be found in:
+
+
+    http://www.gutenberg.org/dirs/1/9/9/7/19978/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the Project
+Gutenberg™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase “Project Gutenberg”),
+you agree to comply with all the terms of the Full Project Gutenberg™
+License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.
+
+
+General Terms of Use & Redistributing Project Gutenberg™ electronic works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg™ electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg™ electronic works in your possession. If you paid a fee
+for obtaining a copy of or access to a Project Gutenberg™ electronic work
+and you do not agree to be bound by the terms of this agreement, you may
+obtain a refund from the person or entity to whom you paid the fee as set
+forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+“Project Gutenberg” is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg™ electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg™ electronic works if you
+follow the terms of this agreement and help preserve free future access to
+Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (“the Foundation” or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg™ mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg™ works in compliance with the terms of this agreement for
+keeping the Project Gutenberg™ name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when you
+share it without charge with others.
+
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder. Information on the
+copyright owner for this particular work and the terms of use imposed by
+the copyright holder on this work are set forth at the beginning of this
+work.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg™ work.
+The Foundation makes no representations concerning the copyright status of
+any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg™ License must appear prominently whenever
+any copy of a Project Gutenberg™ work (any work on which the phrase
+“Project Gutenberg” appears, or with which the phrase “Project Gutenberg”
+is associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+    This eBook is for the use of anyone anywhere at no cost and with
+    almost no restrictions whatsoever. You may copy it, give it away
+    or re-use it under the terms of the Project Gutenberg License
+    included with this eBook or online at http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg™ electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase “Project Gutenberg” associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg™ electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg™ License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg™ License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg™.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg™ License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+“Plain Vanilla ASCII” or other format used in the official version posted
+on the official Project Gutenberg™ web site (http://www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original “Plain Vanilla ASCII” or other form.
+Any alternate format must include the full Project Gutenberg™ License as
+specified in paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg™ works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg™ electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg™ works calculated using the method you
+      already use to calculate your applicable taxes. The fee is owed to
+      the owner of the Project Gutenberg™ trademark, but he has agreed to
+      donate royalties under this paragraph to the Project Gutenberg
+      Literary Archive Foundation. Royalty payments must be paid within 60
+      days following each date on which you prepare (or are legally
+      required to prepare) your periodic tax returns. Royalty payments
+      should be clearly marked as such and sent to the Project Gutenberg
+      Literary Archive Foundation at the address specified in Section 4,
+      “Information about donations to the Project Gutenberg Literary
+      Archive Foundation.”
+
+    - You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg™ License.
+      You must require such a user to return or destroy all copies of the
+      works possessed in a physical medium and discontinue all use of and
+      all access to other copies of Project Gutenberg™ works.
+
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+    - You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg™ works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg™ electronic
+work or group of works on different terms than are set forth in this
+agreement, you must obtain permission in writing from both the Project
+Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
+Project Gutenberg™ trademark. Contact the Foundation as set forth in
+Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg™ collection. Despite these
+efforts, Project Gutenberg™ electronic works, and the medium on which they
+may be stored, may contain “Defects,” such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of
+Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg™
+trademark, and any other party distributing a Project Gutenberg™
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg™ electronic works in accordance with this agreement, and
+any volunteers associated with the production, promotion and distribution
+of Project Gutenberg™ electronic works, harmless from all liability, costs
+and expenses, including legal fees, that arise directly or indirectly from
+any of the following which you do or cause to occur: (a) distribution of
+this or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any Defect
+you cause.
+
+
+Section  2.
+
+
+           Information about the Mission of Project Gutenberg™
+
+
+Project Gutenberg™ is synonymous with the free distribution of electronic
+works in formats readable by the widest variety of computers including
+obsolete, old, middle-aged and new computers. It exists because of the
+efforts of hundreds of volunteers and donations from people in all walks
+of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg™’s goals and ensuring
+that the Project Gutenberg™ collection will remain freely available for
+generations to come. In 2001, the Project Gutenberg Literary Archive
+Foundation was created to provide a secure and permanent future for
+Project Gutenberg™ and future generations. To learn more about the Project
+Gutenberg Literary Archive Foundation and how your efforts and donations
+can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
+Gutenberg Literary Archive Foundation are tax deductible to the full
+extent permitted by U.S. federal laws and your state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.
+
+
+      General Information About Project Gutenberg™ electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg™
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed editions,
+all of which are confirmed as Public Domain in the U.S. unless a copyright
+notice is included. Thus, we do not necessarily keep eBooks in compliance
+with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+    http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg™, including how
+to make donations to the Project Gutenberg Literary Archive Foundation,
+how to help produce our new eBooks, and how to subscribe to our email
+newsletter to hear about new eBooks.
+-->
