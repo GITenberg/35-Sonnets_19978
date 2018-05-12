@@ -1,0 +1,37 @@
+_repo: 35-Sonnets_19978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pessoa, Fernando
+    aliases:
+    - Pacheco, C.
+    - Reis, Ricardo
+    - Seabra Pessôa, Fernando António Nogueira de
+    - Pessoa, Fernando Antonio Nogueira
+    - Nogueira Pessoa, Fernando Antonio
+    - Pessoa, Fernando António Nogueira
+    birthdate: 1888
+    deathdate: 1935
+    gutenberg_agent_id: '9005'
+    url: http://www.gutenberg.org/2009/agents/9005
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Fernando_Pessoa
+    - http://www.gutenberg.org/ebooks/author/26230
+    - http://en.wikipedia.org/wiki/Fernando_Pessoa
+description: ''
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: 35 Sonnets
+url: http://www.gutenberg.org/ebooks/19978
