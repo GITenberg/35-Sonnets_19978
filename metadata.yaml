@@ -22,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/26230
     - http://en.wikipedia.org/wiki/Fernando_Pessoa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19978#35-Sonnets
 gutenberg_issued: '2006-11-30'
 gutenberg_type: Text
 identifiers:
